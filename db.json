@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "NPI",
+      "address": "55",
+      "phone": "0716512180"
+    },
+    {
+      "id": "2",
+      "name": "NP",
+      "address": "PP",
+      "phone": "0716512180"
+    },
+    {
+      "id": "3",
+      "name": "tey",
+      "address": "BMC",
+      "phone": "0123654789"
+    },
+    {
+      "id": "4",
+      "name": "NPIC_2023",
+      "address": "PP",
+      "phone": "0716512180"
+    },
+    {
+      "id": "5",
+      "name": "NP",
+      "address": "PP",
+      "phone": "0716512180"
+    },
+    {
+      "id": "6",
+      "name": "NPIC_2023",
+      "address": "PP",
+      "phone": "0716512180"
+    }
+  ]
+}
